@@ -1,4 +1,5 @@
-## Hi there 👋
+![Preview](assets/gifs/red.gif)
+eh?... that's me...
 
 <!--
 **zmorok/zmorok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
