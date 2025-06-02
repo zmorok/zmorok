@@ -1,4 +1,4 @@
-![Preview](assets/gifs/red.gif)
+![Preview](assets/gifs/IzashianWP.gif)
 eh?... that's me...
 
 <!--
