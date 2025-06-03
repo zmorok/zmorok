@@ -1,5 +1,5 @@
-![Preview](assets/gifs/IzashianWP.gif)
-eh?... that's me...
+![Preview](assets/gifs/YUDHO.gif)
+eh?...
 
 <!--
 **zmorok/zmorok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
