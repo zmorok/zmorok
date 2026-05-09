@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/gifs/vivian.gif" alt="Vivian!" />
+  <img src="assets/gifs/vivian-600.gif" alt="Vivian!" width="600"/>
 </p>
 
 <p align="center">
